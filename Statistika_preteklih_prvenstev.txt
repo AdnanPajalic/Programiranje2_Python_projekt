@@ -1,0 +1,6 @@
+2020 = https://fbref.com/en/comps/676/UEFA-Euro-Stats
+2016 = https://fbref.com/en/comps/676/10277/2016-UEFA-Euro-Stats
+2012 = https://fbref.com/en/comps/676/10276/2012-UEFA-Euro-Stats
+2008 = https://fbref.com/en/comps/676/10275/2008-UEFA-Euro-Stats
+2004 = https://fbref.com/en/comps/676/10274/2004-UEFA-Euro-Stats
+2000 = https://fbref.com/en/comps/676/10273/2000-UEFA-Euro-Stats
